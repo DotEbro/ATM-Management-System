@@ -1,0 +1,32 @@
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\bin\Debug\ATM System.exe.config
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\bin\Debug\ATM System.exe
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\bin\Debug\ATM System.pdb
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM System.csproj.AssemblyReference.cache
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM_System.Properties.Resources.resources
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM System.csproj.GenerateResource.cache
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM System.csproj.CoreCompileInputs.cache
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM System.exe
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM System.pdb
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM_System.Login.resources
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM_System.Customer.resources
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM_System.Admin.resources
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM_System.Deposit.resources
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM_System.Transfer.resources
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM_System.Withdraw.resources
+C:\Users\Imran Wazir\Desktop\Abrar\ATM System\ATM System\obj\Debug\ATM_System.ChangePin.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\bin\Debug\ATM System.exe.config
+E:\2nd Semester\OOP summer\ATM System\ATM System\bin\Debug\ATM System.exe
+E:\2nd Semester\OOP summer\ATM System\ATM System\bin\Debug\ATM System.pdb
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM System.csproj.AssemblyReference.cache
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM_System.Admin.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM_System.ChangePin.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM_System.Customer.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM_System.Deposit.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM_System.Login.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM_System.Properties.Resources.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM_System.Transfer.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM_System.Withdraw.resources
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM System.csproj.GenerateResource.cache
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM System.csproj.CoreCompileInputs.cache
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM System.exe
+E:\2nd Semester\OOP summer\ATM System\ATM System\obj\Debug\ATM System.pdb
